@@ -5,3 +5,4 @@ Testing out Discord Integration
 - Link my discord server
   - [ ] Bot could help with github workflow
   - [ ] Bot could help with slack workflow 
+  - [ ] Bot could connect to a personal website
